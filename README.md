@@ -1,3 +1,4 @@
+![headshot](rajeev.jpg)
 # HelloWorld
 Learning Github and Git
 # About Me
